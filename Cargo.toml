@@ -2,6 +2,11 @@
 name = "chun"
 version = "0.1.0"
 edition = "2021"
+license = "GPL-3.0-or-later"
+authors = ["Julien Montagut <_@julienmontagut.com>"]
+description = "Check whether a project name is already taken across package registries"
+repository = "https://codeberg.org/julienmontagut/chun"
+readme = "README.md"
 
 [dependencies]
 reqwest = "0.12.12"
